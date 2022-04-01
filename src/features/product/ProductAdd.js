@@ -19,7 +19,7 @@ const ProductAdd = () => {
         </form><form onSubmit={handleSubmit(onSubmit)} >
             <input type="text" {...register('name')} placeholder="Ten san pham" />
             <input type="number" {...register('price')} placeholder="Gia san pham"/>
-            <button>Them san pham</button>
+            <button className='text-red-700'>Them san pham</button>
         </form>
     </div>
   )

@@ -4,6 +4,12 @@
       "name": "Cao Dang Tan ",
       "price": "1234",
       "id": 1
+    },
+    {
+      "name": "Cao Dang Tan 55",
+      "price": "123",
+      "id": 2
     }
+   
   ]
 }
